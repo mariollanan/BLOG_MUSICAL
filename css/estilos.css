@@ -1,0 +1,13 @@
+
+
+  i.fab {
+    color:grey;
+  }
+	i.fab:hover{
+		color:lightblue;
+	}
+.cuadro{
+	min-height: 10rem;
+
+	
+}
